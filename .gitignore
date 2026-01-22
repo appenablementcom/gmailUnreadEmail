@@ -1,0 +1,24 @@
+# Backend Secrets & Data
+backend/credentials.json
+backend/token.json
+backend/data/
+backend/__pycache__/
+backend/venv/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+frontend/build/
+frontend/dist/
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
+.gemini/
+.agent/
+brain/
+tmp/
+*.log
